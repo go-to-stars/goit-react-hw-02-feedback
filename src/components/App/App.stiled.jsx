@@ -14,6 +14,7 @@ export const Container = styled.div`
   border-radius: 10px;
 
   @media (max-width: 1023.98px) {
+    max-width: 70vw;
     margin: 15px auto 0;
     padding: 10px;
 
@@ -21,6 +22,7 @@ export const Container = styled.div`
   }
 
   @media (max-width: 767.98px) {
+    max-width: 80vw;
     margin: 10px auto 0;
     padding: 5px;
 
